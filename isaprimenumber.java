@@ -7,6 +7,7 @@ class prime {
         try (Scanner sc = new Scanner(System.in)) {
             try {
                 int flag = 0;
+                System.out.println("Enter a number :");
                 int num = sc.nextInt();
                 if (num == 0 || num == 1) {
                     System.out.println(num + " is not a prime number. ");
