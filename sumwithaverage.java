@@ -1,5 +1,5 @@
 // A java program for the adding and finding average of the given count number
-import java.util.Scanner;
+import java.util.*;
 
 class sumWithAverage {
     public static void main(String[] args) {

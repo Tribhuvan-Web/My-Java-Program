@@ -1,6 +1,6 @@
 // Java program to find the sum of first N number
 
-import java.util.Scanner;
+import java.util.*;
 
 class sum {
     public static void main(String[] args) {

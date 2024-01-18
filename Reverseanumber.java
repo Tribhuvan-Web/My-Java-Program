@@ -1,5 +1,5 @@
 // A java program to reverse a number
-import java.util.*;
+import java.util.Scanner;
 
 class revanumber {
     public static void main(String[] args) {

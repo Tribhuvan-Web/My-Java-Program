@@ -1,5 +1,5 @@
 // A java program to find the leap year
-import java.util.Scanner;
+import java.util.*;
 
 class leapyear {
     public static void main(String[] args) {
