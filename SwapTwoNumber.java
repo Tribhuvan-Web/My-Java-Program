@@ -1,4 +1,5 @@
-// A java program to reverse a number
+
+// A java program to swap a number
 import java.util.Scanner;
 
 class revanumber {
