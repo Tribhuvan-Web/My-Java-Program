@@ -20,7 +20,6 @@ class palindrome {
                     System.out.println(number + " is not a palindrome number. ");
                 }
             } catch (Exception e) {
-                // TODO: handle exception
                 System.out.println("Enter a valid input.");
             }
         }

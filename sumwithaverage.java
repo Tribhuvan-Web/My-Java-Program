@@ -23,7 +23,6 @@ class sumWithAverage {
                 Average = sum / count;
                 System.out.println("Average of given array is " + Average);
             } catch (Exception e) {
-                // TODO: handle exception
                 System.out.println("Enter a valid input ");
             }
         }

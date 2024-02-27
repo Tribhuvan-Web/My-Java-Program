@@ -1,4 +1,3 @@
-
 //Square Hallow Pattern 
 import java.util.Scanner;
 

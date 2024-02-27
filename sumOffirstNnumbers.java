@@ -14,7 +14,6 @@ class sum {
                 // TODO: handle exception
                 System.out.println("Enter a valid input ");
             }
-
         }
     }
 }
